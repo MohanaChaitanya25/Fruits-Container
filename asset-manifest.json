@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Fruits-Container/static/css/main.efad4aee.chunk.css",
+    "main.js": "/Fruits-Container/static/js/main.dc8a5d24.chunk.js",
+    "main.js.map": "/Fruits-Container/static/js/main.dc8a5d24.chunk.js.map",
+    "runtime-main.js": "/Fruits-Container/static/js/runtime-main.20fb22af.js",
+    "runtime-main.js.map": "/Fruits-Container/static/js/runtime-main.20fb22af.js.map",
+    "static/js/2.e6c405c3.chunk.js": "/Fruits-Container/static/js/2.e6c405c3.chunk.js",
+    "static/js/2.e6c405c3.chunk.js.map": "/Fruits-Container/static/js/2.e6c405c3.chunk.js.map",
+    "index.html": "/Fruits-Container/index.html",
+    "static/css/main.efad4aee.chunk.css.map": "/Fruits-Container/static/css/main.efad4aee.chunk.css.map",
+    "static/js/2.e6c405c3.chunk.js.LICENSE.txt": "/Fruits-Container/static/js/2.e6c405c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20fb22af.js",
+    "static/js/2.e6c405c3.chunk.js",
+    "static/css/main.efad4aee.chunk.css",
+    "static/js/main.dc8a5d24.chunk.js"
+  ]
+}
