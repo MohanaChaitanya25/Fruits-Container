@@ -1,0 +1,96 @@
+/* Write your CSS here */
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.fruitsCounter-bg-container {
+  background-color: #ffd569;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.fruitsCounter {
+  background-color: #fff;
+  border-radius: 15px;
+  height: 85vh;
+  width: 80vw;
+  max-width: 80vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.fruitCount {
+  color: #ffd569;
+}
+
+.fruitsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+
+.fruitContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fruit-image {
+  height: 180px;
+  margin-bottom: 25px;
+}
+
+.fruit-btn {
+  height: 36px;
+  width: 102px;
+  border-radius: 5px;
+  border-width: 0;
+  color: #fff;
+  background-color: #007bff;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 768px) {
+  .fruit-image {
+    height: 250px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .fruit-image {
+    height: 200px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .fruit-image {
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .fruitsContainer {
+    flex-direction: column;
+  }
+
+  .fruitsCounter {
+    height: auto;
+    width: 95vw;
+    padding: 10px;
+  }
+
+  .fruitsCounter-heading {
+    font-size: 26px;
+    text-align: center;
+  }
+}
