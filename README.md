@@ -1,7 +1,5 @@
 # Fruits Counter
 
-### Refer to the image below:
-
 <br/>
 <div style="text-align: center;">
     <img src="https://assets.ccbp.in/frontend/content/react-js/fruits-counter-output.gif" alt="fruits-counter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
@@ -26,8 +24,6 @@
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
 </details>
-
-
 
 
 <details>
